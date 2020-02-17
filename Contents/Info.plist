@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.tfngh.keyboardlayout.tfngh</string>
+	<key>CFBundleName</key>
+	<string>tifinagh</string>
+	<key>CFBundleVersion</key>
+	<string>2020-01-05</string>
+	<key>KLInfo_es custom</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.tfngh.keyboardlayout.tfngh</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-GB</string>
+	</dict>
+</dict>
+</plist>
