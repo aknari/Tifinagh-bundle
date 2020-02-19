@@ -4,6 +4,6 @@ This is a 'bundle' for a typing Tifinagh symbols with a keyboard with Latin symb
 
 As a final remark, if you have a different layout in your keyboard and you wish to adapt this setup (with an English keyboard there would be no need for this, but with a French or a German one it might happen), the way for performing this is by touching the 'Contents/Resources/tifinagh.keylayout' file with a proper tool for doing this, like [Ukelele](https://software.sil.org/ukelele/).
 
-ⴼⵊⵊⵉⵊ! Enjoy!
+ⵙⵙⴱⵖⵔ! Enjoy!
 
    -- taghoter.
